@@ -9,7 +9,7 @@ We created an educational video to explain **Gradient Boosting**, a powerful sup
 - 💼 **Applications**: Fraud detection, churn prediction, click-through rate modeling.
 - 💻 **Demonstration**: Hands-on model training with sample code in Python.
 
-📺 [Video Link Here](#) *(Replace with actual YouTube or Panopto link)*
+📺 [Video Link Here](#) *(https://youtu.be/WsYyX_Sk8cs)*
 
 ---
 
