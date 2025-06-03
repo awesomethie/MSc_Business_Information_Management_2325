@@ -52,12 +52,9 @@ Success Metrics:
 
 ⸻
 
-🚀 Prototype (Optional)
-
-Prototyping efforts may include:
+🚀 Prototype 
 	•	A working chatbot for meal support
-	•	A sample GenAI model generating weekly menus
-	•	A dashboard for demand forecasts
+	•	A presentation slide deck for GenAI proposal
 
 ⸻
 
@@ -67,15 +64,6 @@ Prototyping efforts may include:
 	•	Risks: Bias in meal suggestions, algorithm complexity, data privacy concerns.
 	•	Mitigations: Model audits, transparency, and alignment with brand values (sustainability, affordability).
 
-⸻
-
-📝 Deliverables
-	•	📄 Full Report (max 20 pages)
-	•	🎥 6–8 Minute Video Presentation
-	•	💡 Blog Post: Digital Strategy RSM
-	•	🧪 Prototype (Optional)
-
-⸻
 
 👥 Target Audience
 	•	Existing Business (HelloFresh): Presentation tailored to senior executives, emphasizing strategic ROI and operational impact.
