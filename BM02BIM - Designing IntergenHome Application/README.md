@@ -81,19 +81,6 @@
 
 ---
 
-## 📎 Contributors
-
-**Team 2 – MSc. Business Information Management**  
-Course: *Designing Business Applications (BM02BIM)*
-
-- Baichuan Ji  
-- Dan Gong  
-- Felix Masselter  
-- Thy Cao  
-- Long Lê  
-
----
-
 ## 🔗 Related Files
 
 - `Business Case`: Financials, success criteria, and solution evaluation  
