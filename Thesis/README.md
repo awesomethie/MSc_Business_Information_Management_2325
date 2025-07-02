@@ -30,9 +30,9 @@ Artificial Intelligence, Causal Inference, Difference-in-Differences, Firm Perfo
 
 ## 📂 Repository Contents
 
-- Thesis PDF (`.pdf`)
-- Data cleaning and analysis scripts (`.R`, `.py`)
-- Figures and tables
+- Thesis PDF (`thesis.pdf`)
+- Thesis defense presentation (`presentation.pdf`)
+- SEC filings retrieval and file processing scripts (`SECfilings.R`, `fileprocessed.R`)
 - Supplementary materials
 
 ---
